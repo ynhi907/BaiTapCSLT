@@ -1,6 +1,6 @@
 # Buoi01_B8 - Đổi số thập phân sang nhị phân
 
-- Sinh viên: [Họ tên] - MSSV: [mã số]
+- Sinh viên: [Nguyễn Ngọc Yến Nhi] - MSSV: [31251024414]
 - Ngày: 20/10/2026
 - Hình thức: bài trên giấy (mã giả, lưu đồ, bảng chạy tay)
 
@@ -57,7 +57,7 @@ KẾT THÚC
 
 ## 6. Lưu đồ
 
-![Lưu đồ B8](images/luudo.png)
+![Lưu đồ B8](images/Buoi01_B8_luudo.png)
 
 Vòng lặp: hình thoi `n > 0 ?` nhánh Đúng đi vào hai bước xử lý, rồi quay lại hình thoi; nhánh Sai thoát ra để xuất `kq`.
 
