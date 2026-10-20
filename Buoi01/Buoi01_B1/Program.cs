@@ -18,10 +18,10 @@ namespace Buoi01_B1
             Console.WriteLine(
                 "THỜI KHÓA BIỂU TUẦN 1\n" +
                 "Thứ\tSáng\t\tChiều\n" +
-                "Hai\tCSLT\t\tToán CC\n" +
-                "Ba\tTiếng Anh\t(trống)\n" +
+                "Hai\tCSLT\t\t(trống)\n" +
+                "Ba\t(trống)\t(trống)\n" +
                 "Tư\tKinh tế vi mô\t(trống)\n" +
-                "Năm\tCSLT\t\tTiếng Anh\n" +
+                "Năm\tCSLT\t\t(trống)\n" +
                 "Sáu\t(trống)\t\tToán CC");
         }
     }
